@@ -76,7 +76,7 @@ flowchart LR
 │   └── etl_handler.py
 ├── README.md
 └── docs/
-    └── ARCHITECTURE.md   # per-service breakdown (IAM, S3, DynamoDB, Athena) — coming soon
+    └── ARCHITECTURE.md
     └── S3.md
     └── DynamoDB.md
     └── Athena.md
