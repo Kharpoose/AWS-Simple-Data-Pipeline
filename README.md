@@ -78,8 +78,8 @@ flowchart LR
 └── docs/
     └── ARCHITECTURE.md   # per-service breakdown (IAM, S3, DynamoDB, Athena) — coming soon
     └── S3.md
-    └── DynamoDB
-    └── Athena
+    └── DynamoDB.md
+    └── Athena.md
 ```
 
 *(adjust paths above to match your actual repo layout)*
